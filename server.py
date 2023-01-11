@@ -3,7 +3,8 @@ import socket
 import threading
 
 # Intialize host ipv4 address and port number
-HOST = '192.168.2.17' #OR socket.gethostbyname(socket.gethostname())
+# TODO: ENTER YOUR IPV4 address in between the quotation marks 
+HOST = ''
 PORT = 22222
 
 # Initialize the socket as an Internet TCP Socket

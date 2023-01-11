@@ -5,7 +5,8 @@ import tkinter.scrolledtext
 from tkinter import simpledialog
 
 #Specify IP as IP of the Host server
-HOST = '192.168.2.17' #OR socket.gethostbyname(socket.gethostname())
+# TODO: ENTER YOUR IPV4 address in between the quotation marks 
+HOST = '' 
 PORT = 22222
 
 class Client:
